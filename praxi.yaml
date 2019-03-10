@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-algorithms
+
+about:
+  title: Learning algorithms
+  description: Learning common algorithm and how to design one
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
